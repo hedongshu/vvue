@@ -1,0 +1,51 @@
+{
+	"version": "0.2.1",
+	"main": "./dist/index.js",
+	"name": "tov-template-lite",
+	"description": "非常轻量现代化 vite + vue3 模板",
+	"scripts": {
+		"dev": "vite",
+		"test": "vitest",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markthree/tov-template-with-nuxt-style.git"
+	},
+	"keywords": [
+		"vue",
+		"nuxt",
+		"tov",
+		"vite",
+		"template"
+	],
+	"author": {
+		"name": "markthree",
+		"email": "1801982702@qq.com",
+		"url": "https://github.com/markthree"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@iconify-json/carbon": "^1.1.5",
+		"@types/node": "^17.0.35",
+		"@types/nprogress": "^0.2.0",
+		"@vitejs/plugin-vue": "^2.3.3",
+		"@vueuse/core": "^8.5.0",
+		"modern-css-reset": "^1.4.0",
+		"nprogress": "^0.2.0",
+		"pinia": "^2.0.14",
+		"unocss": "^0.31.17",
+		"unplugin-auto-import": "^0.7.2",
+		"unplugin-icons": "^0.14.3",
+		"unplugin-vue-components": "^0.19.5",
+		"vite": "^2.9.9",
+		"vite-plugin-compression": "^0.5.1",
+		"vite-plugin-pages": "^0.23.0",
+		"vite-plugin-removelog": "^0.0.4",
+		"vite-plugin-use-modules": "^1.1.0",
+		"vitest": "^0.10.5",
+		"vue": "^3.2.36",
+		"vue-router": "^4.0.15"
+	}
+}

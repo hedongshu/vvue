@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"antfu.unocss",
+		"antfu.iconify",
+		"Vue.volar",
+		"steoates.autoimport",
+		"usernamehw.errorlens",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag"
+	]
+}
